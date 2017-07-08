@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b20054780f7dcdc4b843b97189155778
+timeCreated: 1495916071
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pix Chicago
+  fontNames:
+  - pix Chicago
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
